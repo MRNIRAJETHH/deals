@@ -3,9 +3,9 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "PASTE_KEY",
-  authDomain: "PASTE_DOMAIN",
-  projectId: "PASTE_ID",
+  apiKey: "AIzaSyBdyUvmayvt6eO41sunk7xyDRn-PbVPnS8",
+  authDomain: "ryuk-246a5.firebaseapp.com",
+  projectId: "ryuk-246a5",
 };
 
 const app = initializeApp(firebaseConfig);
